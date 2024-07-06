@@ -1,10 +1,10 @@
 Gizlilik Politikası
 
-Son Güncelleme Tarihi: [16.06.2024]
+Son Güncelleme Tarihi: [07.07.2024]
 
 1. Giriş
 
-Bu gizlilik politikası, [EzBro] (bundan böyle "ezbro" olarak anılacaktır) tarafından sağlanan hizmetlerin kullanımı sırasında kullanıcıların verilerinin nasıl toplandığını, kullanıldığını ve korunduğunu açıklamaktadır. Bu politikayı kabul etmiyorsanız, lütfen botumuzu kullanmayın.
+Bu gizlilik politikası, [Gokturk] (bundan böyle "gokturk" olarak anılacaktır) tarafından sağlanan hizmetlerin kullanımı sırasında kullanıcıların verilerinin nasıl toplandığını, kullanıldığını ve korunduğunu açıklamaktadır. Bu politikayı kabul etmiyorsanız, lütfen botumuzu kullanmayın.
 
 2. Toplanan Veriler
 
@@ -44,4 +44,4 @@ Bu gizlilik politikasını zaman zaman güncelleyebiliriz. Herhangi bir değişi
 Bu gizlilik politikası ile ilgili herhangi bir sorunuz veya endişeniz varsa, lütfen bizimle iletişime geçin:
 
 E-posta: [yasincobann0@gmail.com]
-Web Sitesi: [ezbro.xyz]
+Web Sitesi: [gokturk.vercel.app]
